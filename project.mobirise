@@ -62,7 +62,7 @@
           },
           "title": "MIDNIGHT BAZAR&nbsp;",
           "text": "A Mega Trade Fair of Consumer Goods<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"http://midnightbazar.in/stall_booking.pdf\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FORM</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"contacts.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"http://midnightbazarexhibition.com/stall_booking.pdf\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FORM</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"contacts.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_inherit": "msg-box5",
