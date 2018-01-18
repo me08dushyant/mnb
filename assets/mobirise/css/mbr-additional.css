@@ -354,6 +354,18 @@
 #dropdown-menu-1s .navbar-toggler {
   color: #ffffff;
 }
+#msg-box3-2e .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-2e .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#header3-2c H3 {
+  text-align: center;
+}
+#header3-2c P {
+  text-align: center;
+}
 #msg-box5-29 .mbr-header__text {
   color: #ffffff;
 }
