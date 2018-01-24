@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MidNightBazzar",
-    "currentPage": "news.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,9 +11,9 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.8.7",
-    "uniqCompNum": 92,
-    "versionPublish": "4.5.1",
-    "path": "file:///E:/Midnight%20bazaar",
+    "uniqCompNum": 108,
+    "versionPublish": "4.6.0",
+    "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "cookiesAlert": ""
   },
@@ -132,7 +132,7 @@
             }
           },
           "headerAlign": "left",
-          "title": "Raavi Event's Upcoming Event<br>",
+          "title": "Last Successful Event",
           "meta": "",
           "text": "<p></p><blockquote><b>06 th &nbsp;Jan &nbsp;to 14th &nbsp; Jan &nbsp;2018&nbsp;</b></blockquote><ul><li>300+ Stalls Under One Roof</li><li>Perfect Place for Product Display and Sales</li><li>National and Multinational Brands&nbsp;</li></ul><p></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"contacts.html\" data-toolbar=\"-mbrBtnMove\">BOOK YOUR STALL</a> "
@@ -201,7 +201,7 @@
             }
           },
           "headerAlign": "left",
-          "title": "Last Successfull Event",
+          "title": "Last Successful Event",
           "meta": "LDSF - 6th to 15th October 2017",
           "text": "<p>Raavi Events presents LDSF <b>Life Decor Shopping</b> <b>Festival</b>. Unique Women shopping fair Festival lasts from 6th to 15th Oct 2017 at Kothi Meena Bazar Ground, Agra.&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"contacts.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
@@ -862,87 +862,143 @@
             "images": [
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/3-jan-hindustan-2000x1004-90-800x401-96.jpg",
-                "image": "@PROJECT_PATH@/assets/images/3-jan-hindustan-2000x1004-90.jpg",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/amarujala-5.1.2018-517x576-517x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/amarujala-5.1.2018-517x576.jpg",
+                "active": false,
+                "alt": ""
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/3-jan-mycity-jagran-2000x1075-27-800x430-39.jpg",
-                "image": "@PROJECT_PATH@/assets/images/3-jan-mycity-jagran-2000x1075-27.jpg",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/hindustan-5.1.2018-230x411-230x411.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hindustan-5.1.2018-230x411.jpg",
+                "active": false,
+                "alt": ""
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/5-jan-dainik-2000x1079-56-800x431-85.png",
-                "image": "@PROJECT_PATH@/assets/images/5-jan-dainik-2000x1079-56.png",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/amarujala-5.1.2018-517x576-517x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/amarujala-5.1.2018-517x576.jpg",
+                "active": false,
+                "alt": ""
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/6-jan-hindustan-live-2000x1307-33-800x522-44.jpg",
-                "image": "@PROJECT_PATH@/assets/images/6-jan-hindustan-live-2000x1307-33.jpg",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/dla-6.1.2018-opening-864x447-800x413.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dla-6.1.2018-opening-864x447.jpg",
+                "active": false,
+                "alt": ""
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/6-jan-jagran-2000x2528-19-800x1011-63.jpg",
-                "image": "@PROJECT_PATH@/assets/images/6-jan-jagran-2000x2528-19.jpg",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/dla-7.1.2018-864x362-800x335.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dla-7.1.2018-864x362.jpg",
+                "active": false,
+                "alt": ""
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/8-jan-amarujala-2000x1539-82-800x615-97.jpg",
-                "image": "@PROJECT_PATH@/assets/images/8-jan-amarujala-2000x1539-82.jpg",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/hindustan-8.1.2018-1054x720-800x546.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hindustan-8.1.2018-1054x720.jpg",
+                "active": false,
+                "alt": ""
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/8-jan-dainik-jagran-2000x905-66-800x362-97.png",
-                "image": "@PROJECT_PATH@/assets/images/8-jan-dainik-jagran-2000x905-66.png",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/hindustan-9.1.2018-720x1080-720x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hindustan-9.1.2018-720x1080.jpg",
+                "active": false,
+                "alt": ""
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/8-jan-hindustan-2000x1600-61-800x640-37.jpg",
-                "image": "@PROJECT_PATH@/assets/images/8-jan-hindustan-2000x1600-61.jpg",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/dla-9.1.2018-630x576-630x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dla-9.1.2018-630x576.jpg",
+                "active": false,
+                "alt": ""
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/03-2000x2684-43-800x1073-43.jpg",
-                "image": "@PROJECT_PATH@/assets/images/03-2000x2684-43.jpg",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/dainik-jagran-10.1.2018-469x567-469x567.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dainik-jagran-10.1.2018-469x567.jpg",
+                "active": false,
+                "alt": ""
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/04-2000x2714-51-800x1085-56.jpg",
-                "image": "@PROJECT_PATH@/assets/images/04-2000x2714-51.jpg",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/dla-10.1.2018-637x576-637x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dla-10.1.2018-637x576.jpg",
+                "active": false,
+                "alt": ""
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/05-2000x2718-50-800x1087-83.jpg",
-                "image": "@PROJECT_PATH@/assets/images/05-2000x2718-50.jpg",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/hindustan-11.1.2018-311x576-311x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hindustan-11.1.2018-311x576.jpg",
+                "active": false,
+                "alt": ""
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/06-2000x2718-37-800x1087-67.jpg",
-                "image": "@PROJECT_PATH@/assets/images/06-2000x2718-37.jpg",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/dainik-jagran-11.1.2018-635x576-635x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dainik-jagran-11.1.2018-635x576.jpg",
+                "active": false,
+                "alt": ""
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/07-2000x2718-18-800x1087-15.jpg",
-                "image": "@PROJECT_PATH@/assets/images/07-2000x2718-18.jpg",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/dla-11.1.2018-864x576-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dla-11.1.2018-864x576.jpg",
+                "active": false,
+                "alt": ""
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/16-2000x2718-36-800x1087-26.jpg",
-                "image": "@PROJECT_PATH@/assets/images/16-2000x2718-36.jpg",
-                "active": true
+                "thumb": "@PROJECT_PATH@/assets/images/dainik-jagran-12.1.2018-546x1440-546x1440.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dainik-jagran-12.1.2018-546x1440.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/amarujala-12.1.2018-431x576-431x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/amarujala-12.1.2018-431x576.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/amarujala-31.12.2017-669x576-669x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/amarujala-31.12.2017-669x576.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/hindustan-31.12.2017-864x372-800x344.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hindustan-31.12.2017-864x372.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dla-31.12.2017-720x615-720x615.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dla-31.12.2017-720x615.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dla-28.12.2017-706x430-706x430.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dla-28.12.2017-706x430.jpg",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dla-12.1.2018-704x543-704x543.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dla-12.1.2018-704x543.jpg",
+                "active": true,
+                "alt": ""
               }
             ]
           },
@@ -989,7 +1045,8 @@
     "gallery.html": {
       "settings": {
         "title": "Gallery",
-        "meta_descr": ""
+        "meta_descr": "",
+        "order": 2
       },
       "components": [
         {
@@ -2020,7 +2077,8 @@
     "layout.html": {
       "settings": {
         "title": "Layout",
-        "meta_descr": ""
+        "meta_descr": "",
+        "order": 3
       },
       "components": [
         {
@@ -2189,7 +2247,8 @@
     },
     "clients.html": {
       "settings": {
-        "title": "Clients"
+        "title": "Clients",
+        "order": 4
       },
       "components": [
         {
@@ -4782,7 +4841,8 @@
     "activities.html": {
       "settings": {
         "title": "Activities",
-        "meta_descr": ""
+        "meta_descr": "",
+        "order": 5
       },
       "components": [
         {
@@ -5099,7 +5159,8 @@
     "contacts.html": {
       "settings": {
         "title": "Contact Us",
-        "meta_descr": ""
+        "meta_descr": "",
+        "order": 6
       },
       "components": [
         {
@@ -5295,7 +5356,8 @@
     "associates.html": {
       "settings": {
         "title": "Our Associates",
-        "meta_descr": ""
+        "meta_descr": "",
+        "order": 7
       },
       "components": [
         {
@@ -5970,7 +6032,8 @@
     },
     "news.html": {
       "settings": {
-        "title": "News"
+        "title": "News",
+        "order": 8
       },
       "components": [
         {
@@ -6068,358 +6131,6 @@
           ],
           "_name": "msg-box3",
           "_anchor": "msg-box3-2e"
-        },
-        {
-          "_params": {
-            "showHeader": false,
-            "showSubheader": false,
-            "showImages": true,
-            "showTitles": false,
-            "showCaptions": false,
-            "showButtons": false,
-            "paddingTop": 3,
-            "paddingBottom": "0",
-            "columns": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fac51c",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
-          "subheader": "By John Smith posted July 30, 2015",
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/amarujala%205.1.2018-517x576.jpg",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "linkInNewWindow": false,
-              "name": "mobile",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0,
-              "active": true
-            }
-          },
-          "title1": "BOOTSTRAP 3",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/dla%206.1.2018%20opening-600x310.jpg",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "linkInNewWindow": false,
-              "name": "mobile2",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0,
-              "active": true
-            }
-          },
-          "title2": "RESPONSIVE",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "images/google-fonts.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "WEB FONTS",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "images/unlimited-websites.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "UNLIMITED WEBSITES",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-2f"
-        },
-        {
-          "_params": {
-            "showMeta": true
-          },
-          "title": "Midnight Bazar 2018 Opening Ceremony",
-          "meta": "posted on Jan 6, 2018",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_styles": {
-            "H3": {
-              "text-align": "center"
-            },
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "header3-2c"
-        },
-        {
-          "_params": {
-            "showHeader": false,
-            "showSubheader": false,
-            "showImages": true,
-            "showTitles": false,
-            "showCaptions": false,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": 3,
-            "columns": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
-          "subheader": "By John Smith posted July 30, 2015",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/amarujala-5.1.2018-500x557.jpg",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "linkInNewWindow": false,
-              "name": "mobile2",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "BOOTSTRAP 3",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/dla%206.1.2018%20opening-600x310.jpg",
-              "class": "mbr-figure__img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "linkInNewWindow": false,
-              "name": "mobile",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0,
-              "active": true
-            }
-          },
-          "title2": "RESPONSIVE",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "images/google-fonts.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "WEB FONTS",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "images/unlimited-websites.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "UNLIMITED WEBSITES",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-2j"
         },
         {
           "_styles": {
