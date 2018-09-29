@@ -465,6 +465,20 @@
 #dropdown-menu-32 .navbar-toggler {
   color: #ffffff;
 }
+#features1-3t .mbr-section-title .mbr-header__text {
+  font-size: 30px;
+}
+#content5-3p .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #000000;
+}
+#content5-3p .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-3p .mbr-article {
+  color: #fff;
+}
 #contacts2-33 UL {
   color: #efefef;
 }
