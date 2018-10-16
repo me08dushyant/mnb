@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MidNightBazzar",
-    "currentPage": "page8.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -14,12 +14,14 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.8.7",
-    "uniqCompNum": 144,
+    "uniqCompNum": 140,
     "versionPublish": "4.8.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "cookiesAlert": "",
-    "siteFonts": []
+    "siteFonts": [],
+    "publishType": "local",
+    "publishPath": "file:///I:/_work/github/mnb"
   },
   "pages": {
     "index.html": {
@@ -7388,7 +7390,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/agra-mahotsav-2018-invitation-for-vice-president-shri.-venkaiah-naidu-600x387.jpg",
+              "src": "@PROJECT_PATH@/assets/images/agra%20mahotsav%202018%20invitation%20for%20vice%20president%20shri.%20venkaiah%20naidu-600x387.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -7411,7 +7413,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/agra-mahotsav-poster-launch-by-chief-minister-of-up-shri.-yogi-adityanath-600x393.jpg",
+              "src": "@PROJECT_PATH@/assets/images/agra%20mahotsav%20poster%20launch%20by%20chief%20minister%20of%20up%20shri.%20yogi%20adityanath-600x393.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -7523,33 +7525,6 @@
           }
         },
         {
-          "_params": {
-            "showText": false,
-            "outside": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/agra-mahotsav-poster-launch-by-home-minister-of-india-shri.-rajnath-singh-1400x937.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-3z"
-        },
-        {
           "_inherit": "msg-box3",
           "_styles": {
             ".mbr-header .mbr-header__text": {
@@ -7607,7 +7582,7 @@
             "bgColor": "#efefef",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/amarujal-2.9-1167x2313.jpg",
+                "image": "@PROJECT_PATH@/assets/images/amarujal%202.9-1167x2313.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/amarujal-2.9-1167x2313-800x1586.jpg",
                 "alt": "",
                 "title": "",
@@ -7665,38 +7640,6 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/jagran-1-1696x3212.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/jagran-1-1696x3212-800x1515.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/dla-7.10.18-1506x2400.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dla-7.10.18-1506x2400-800x1275.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/dla-14.10.18-2000x1675.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dla-14.10.18-2000x1675-800x670.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/hindustan-15.10.18-356x767.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hindustan-15.10.18-356x767-356x767.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/jagran-15.10.18-347x491.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jagran-15.10.18-347x491-347x491.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
