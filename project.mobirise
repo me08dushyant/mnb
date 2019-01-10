@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MidNightBazzar",
-    "currentPage": "index.html",
+    "currentPage": "layout.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -19,9 +19,7 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "cookiesAlert": "",
-    "siteFonts": [],
-    "publishType": "local",
-    "publishPath": "file:///I:/_work/github/mnb"
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -133,7 +131,7 @@
             }
           },
           "headerAlign": "left",
-          "meta": "5th january to 14th   January &nbsp;2019",
+          "meta": "19th january to 28th   January &nbsp;2019",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#pricing-table1-9\" data-toolbar=\"-mbrBtnMove\">KNOW MORE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"contacts.html\" data-toolbar=\"-mbrBtnMove\">BOOK STALL</a> ",
           "_name": "msg-box4",
           "_anchor": "msg-box4-30"
@@ -2253,7 +2251,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/layout%202019-1400x990.jpg",
+              "src": "@PROJECT_PATH@/assets/images/layout-2019-1400x991.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
