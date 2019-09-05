@@ -281,7 +281,7 @@
           "_anchor": "msg-box4-g",
           "_params": {
             "showTitle": true,
-            "showMeta": true,
+            "showMeta": false,
             "showText": true,
             "showButtons": false,
             "inverse": true,
@@ -335,7 +335,15 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-header__text {\n  color: #ffffff;\n  text-align: left;\n}\n.mbr-header__subtext {\n  color: #faaf40;\n  text-align: left;\n}\n.mbr-article {\n  color: #ffffff;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_styles": {
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_styles": {
