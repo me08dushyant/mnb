@@ -114,7 +114,7 @@
               "size": 0
             }
           },
-          "title": "AGRA MAHOTSAVA",
+          "title": "AGRA MAHOTSAVA 2019",
           "text": "<p>Raavi Events in association of Midnight Bazar brings you Agra Mahotsava. A perfect blend of Indian heritage, culture and business. &nbsp; &nbsp;</p><p>Contact for your stall booking Ravi Events Entertainment India Pvt Ltd<br></p><p>&nbsp;9760018805, &nbsp;8057913222, &nbsp;9897277918, 7500183142</p>",
           "_tags": [
             "Theme"
@@ -182,7 +182,7 @@
               "size": 0
             }
           },
-          "title": "MIDNIGHT BAZAR",
+          "title": "Last Successful Event",
           "text": "<p>This event was successfully executed in this year from 19th january to 26th january. Thanks for all visitors to make this event successful.</p>",
           "_tags": [
             "Theme"
@@ -271,79 +271,6 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-42"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-g",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#28324e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/winter-1400x840.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=T3fZ7wQTlgY",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "linkInNewWindow": false,
-              "name": "apple",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0
-            }
-          },
-          "headerAlign": "left",
-          "title": "Last Successful Event",
-          "meta": "",
-          "text": "<p></p><blockquote><b>06 th &nbsp;Jan &nbsp;to 14th &nbsp; Jan &nbsp;2018&nbsp;</b></blockquote><ul><li>300+ Stalls Under One Roof</li><li>Perfect Place for Product Display and Sales</li><li>National and Multinational Brands&nbsp;</li></ul><p></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"contacts.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
-          "_customHTML": "<section class=\"mbr-section mbr-section--relative\" data-rv-view=\"6\" style=\"background-color: rgb(40, 50, 78);\">\n    \n    <div class=\"mbr-section__container mbr-section__container--isolated container\" style=\"padding-top: 93px; padding-bottom: 93px;\">\n        <div class=\"row\">\n            <div class=\"mbr-box mbr-box--fixed mbr-box--adapted\">\n                \n                <div class=\"mbr-box__magnet mbr-class-mbr-box__magnet--center-left col-sm-6 content-size mbr-section__left\">\n                    <div class=\"mbr-section__container mbr-section__container--middle\">\n                        <div class=\"mbr-header mbr-header--auto-align mbr-header--wysiwyg\">\n                            <h3 class=\"mbr-header__text mbr-editable-content\" code-editable-id=\"33\">Last Successful Event</h3>\n                            <p class=\"mbr-header__subtext mbr-editable-content\" code-editable-id=\"34\"></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-section__container mbr-section__container--middle\">\n                        <div class=\"mbr-article mbr-article--auto-align mbr-article--wysiwyg mbr-editable-full\" code-editable-id=\"35\"><p></p><blockquote><strong>06 th &nbsp;Jan &nbsp;to 14th &nbsp; Jan &nbsp;2018&nbsp;</strong></blockquote><ul><li>300+ Stalls Under One Roof</li><li>Perfect Place for Product Display and Sales</li><li>National and Multinational Brands&nbsp;</li></ul><p></p></div>\n                    </div>\n                    \n                </div>\n                <div class=\"mbr-box__magnet mbr-box__magnet--top-left mbr-section__right col-sm-6 image-size\" style=\"width: 50%;\">\n                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width\"><img src=\"@PROJECT_PATH@/assets/images/winter-1400x840.jpg\" class=\"mbr-figure__img\"></figure>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n\n\n",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": ".mbr-header__text {\n  color: #ffffff;\n  text-align: left;\n}\n.mbr-header__subtext {\n  color: #faaf40;\n  text-align: left;\n}\n.mbr-article {\n  color: #ffffff;\n}\n",
-          "_customTemplate": true,
-          "_styles": {
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            }
-          }
         },
         {
           "_styles": {
