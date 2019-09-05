@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MidNightBazzar",
-    "currentPage": "layout.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -14,8 +14,8 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.8.7",
-    "uniqCompNum": 149,
-    "versionPublish": "4.8.6",
+    "uniqCompNum": 150,
+    "versionPublish": "4.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "cookiesAlert": "",
@@ -66,7 +66,7 @@
           },
           "title": "MIDNIGHT BAZAR&nbsp;",
           "text": "A Mega Trade Fair of Consumer Goods<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"index.html#msg-box4-30\" data-toolbar=\"-mbrBtnMove\">UPCOMING EVENTS</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"index.html#msg-box4-45\" data-toolbar=\"-mbrBtnMove\">UPCOMING EVENTS</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -75,6 +75,74 @@
             "showMeta": true,
             "showText": true,
             "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#553982",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/website-poster-1400x1120.jpg",
+              "link": "page8.html",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "AGRA MAHOTSAVA",
+          "text": "<p>Raavi Events in association of Midnight Bazar brings you Agra Mahotsava. A perfect blend of Indian heritage, culture and business. &nbsp; &nbsp;</p><p>Contact for your stall booking Ravi Events Entertainment India Pvt Ltd<br></p><p>&nbsp;9760018805, &nbsp;8057913222, &nbsp;9897277918, 7500183142</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "11th October to 20th   October &nbsp;2019",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#pricing-table1-9\" data-toolbar=\"-mbrBtnMove\">KNOW MORE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"contacts.html\" data-toolbar=\"-mbrBtnMove\">BOOK STALL</a> ",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-45"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": false,
             "inverse": false,
             "imageSize": 50,
             "paddingTop": 3,
@@ -115,7 +183,7 @@
             }
           },
           "title": "MIDNIGHT BAZAR",
-          "text": "<p>Raavi Events brings you grand winter show 19 th Edition of MIDNIGHT Bazar - A Mega Trade Fair of Consumer Goods. Enjoy this winter with fun, food and shopping.</p><p>Contact for your stall booking Ravi Events Entertainment India Pvt Ltd<br></p><p>&nbsp;9760018805, &nbsp;8057913222, &nbsp;9897277918, 7500183142</p>",
+          "text": "<p>This event was successfully executed in this year from 19th january to 26th january. Thanks for all visitors to make this event successful.</p>",
           "_tags": [
             "Theme"
           ],
@@ -1101,7 +1169,7 @@
             }
           },
           "text1": "<strong>OFFICE ADDRESS</strong><br>5, Surya Nagar, Civil Lines, Khandari Agra - 282002<br><br><b>CONTACTS</b><br>Email: info@raavievents.com<br>Phone: 9760018805, 8057913222<br><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>EXHIBITION VENUE&nbsp;</strong></p><p class=\"mbr-contacts__text\">Kothi Meena Bazaar, Agra</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong>DOWNLOADS<br></strong></p><ul class=\"mbr-contacts__list\"><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/brochure.pdf\" target=\"_blank\" class=\"text-white\">Brochure for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/proposal_letter.pdf\" target=\"_blank\" class=\"text-white\">Proposal Letter&nbsp;for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/stall_booking.pdf\" target=\"_blank\" class=\"text-white\">Stall Booking Form for Exhibition Oct 2019&nbsp;</a><br></span></li><li><span style=\"line-height: 1.7em;\"><u><a href=\"layout.html\" class=\"text-white\">Layout For Stalls&nbsp;for&nbsp;</a>Exhibition Oct 2019</u></span></li><li><span style=\"line-height: 1.7em;\"><br></span></li><li><br></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>EXHIBITION VENUE&nbsp;</strong></p><p class=\"mbr-contacts__text\">Kothi Meena Bazaar, Agra</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong>DOWNLOADS<br></strong></p><ul class=\"mbr-contacts__list\"><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/brochure.pdf\" target=\"_blank\" class=\"text-white\">Brochure for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/proposal_letter.pdf\" target=\"_blank\" class=\"text-white\">Proposal Letter For Agra Mahotsav Oct 2019 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/stall_booking.pdf\" target=\"_blank\" class=\"text-white\">Stall Booking Form for Exhibition Oct 2019&nbsp;</a><br></span></li><li><span style=\"line-height: 1.7em;\"><u><a href=\"layout.html\" class=\"text-white\">Layout For Agra Mahotsav</a>&nbsp;Oct 2019</u></span></li><li><span style=\"line-height: 1.7em;\"><br></span></li><li><br></li></ul>"
         }
       ]
     },
@@ -2133,7 +2201,7 @@
             }
           },
           "text1": "<strong>OFFICE ADDRESS</strong><br>5, Surya Nagar, Civil Lines, Khandari Agra - 282002<br><br><b>CONTACTS</b><br>Email: info@raavievents.com<br>Phone: 9760018805, 8057913222<br><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>EXHIBITION VENUE&nbsp;</strong></p><p class=\"mbr-contacts__text\">Kothi Meena Bazaar, Agra</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong>DOWNLOADS<br></strong></p><ul class=\"mbr-contacts__list\"><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/brochure.pdf\" target=\"_blank\" class=\"text-white\">Brochure for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/proposal_letter.pdf\" target=\"_blank\" class=\"text-white\">Proposal Letter&nbsp;for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/stall_booking.pdf\" target=\"_blank\" class=\"text-white\">Stall Booking Form for Exhibition Oct 2019&nbsp;</a><br></span></li><li><span style=\"line-height: 1.7em;\"><u><a href=\"layout.html\" class=\"text-white\">Layout For Stalls&nbsp;for&nbsp;</a>Exhibition Oct 2019</u></span></li><li><span style=\"line-height: 1.7em;\"><br></span></li><li><br></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>EXHIBITION VENUE&nbsp;</strong></p><p class=\"mbr-contacts__text\">Kothi Meena Bazaar, Agra</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong>DOWNLOADS<br></strong></p><ul class=\"mbr-contacts__list\"><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/brochure.pdf\" target=\"_blank\" class=\"text-white\">Brochure for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/proposal_letter.pdf\" target=\"_blank\" class=\"text-white\">Proposal Letter For Agra Mahotsav Oct 2019 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/stall_booking.pdf\" target=\"_blank\" class=\"text-white\">Stall Booking Form for Exhibition Oct 2019&nbsp;</a><br></span></li><li><span style=\"line-height: 1.7em;\"><u><a href=\"layout.html\" class=\"text-white\">Layout For Agra Mahotsav</a>&nbsp;Oct 2019</u></span></li><li><span style=\"line-height: 1.7em;\"><br></span></li><li><br></li></ul>"
         }
       ]
     },
@@ -2239,7 +2307,7 @@
             "overlayOpacity": 0.5
           },
           "title": "LAYOUT",
-          "meta": "Stall Plan for MidNight Bazar 2019",
+          "meta": "Stall Plan for Agra Mahotsava 2019",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -2251,7 +2319,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/layout-2019-1400x991.jpg",
+              "src": "@PROJECT_PATH@/assets/images/layout-1400x991.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -2303,7 +2371,7 @@
             }
           },
           "text1": "<strong>OFFICE ADDRESS</strong><br>5, Surya Nagar, Civil Lines, Khandari Agra - 282002<br><br><b>CONTACTS</b><br>Email: info@raavievents.com<br>Phone: 9760018805, 8057913222<br><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>EXHIBITION VENUE&nbsp;</strong></p><p class=\"mbr-contacts__text\">Kothi Meena Bazaar, Agra</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong>DOWNLOADS<br></strong></p><ul class=\"mbr-contacts__list\"><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/brochure.pdf\" target=\"_blank\" class=\"text-white\">Brochure for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/proposal_letter.pdf\" target=\"_blank\" class=\"text-white\">Proposal Letter&nbsp;for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/stall_booking.pdf\" target=\"_blank\" class=\"text-white\">Stall Booking Form for Exhibition Oct 2019&nbsp;</a><br></span></li><li><span style=\"line-height: 1.7em;\"><u><a href=\"layout.html\" class=\"text-white\">Layout For Stalls&nbsp;for&nbsp;</a>Exhibition Oct 2019</u></span></li><li><span style=\"line-height: 1.7em;\"><br></span></li><li><br></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>EXHIBITION VENUE&nbsp;</strong></p><p class=\"mbr-contacts__text\">Kothi Meena Bazaar, Agra</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong>DOWNLOADS<br></strong></p><ul class=\"mbr-contacts__list\"><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/brochure.pdf\" target=\"_blank\" class=\"text-white\">Brochure for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/proposal_letter.pdf\" target=\"_blank\" class=\"text-white\">Proposal Letter For Agra Mahotsav Oct 2019 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/stall_booking.pdf\" target=\"_blank\" class=\"text-white\">Stall Booking Form for Exhibition Oct 2019&nbsp;</a><br></span></li><li><span style=\"line-height: 1.7em;\"><u><a href=\"layout.html\" class=\"text-white\">Layout For Agra Mahotsav</a>&nbsp;Oct 2019</u></span></li><li><span style=\"line-height: 1.7em;\"><br></span></li><li><br></li></ul>"
         }
       ]
     },
@@ -4896,7 +4964,7 @@
             }
           },
           "text1": "<strong>OFFICE ADDRESS</strong><br>5, Surya Nagar, Civil Lines, Khandari Agra - 282002<br><br><b>CONTACTS</b><br>Email: info@raavievents.com<br>Phone: 9760018805, 8057913222<br><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>EXHIBITION VENUE&nbsp;</strong></p><p class=\"mbr-contacts__text\">Kothi Meena Bazaar, Agra</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong>DOWNLOADS<br></strong></p><ul class=\"mbr-contacts__list\"><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/brochure.pdf\" target=\"_blank\" class=\"text-white\">Brochure for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/proposal_letter.pdf\" target=\"_blank\" class=\"text-white\">Proposal Letter&nbsp;for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/stall_booking.pdf\" target=\"_blank\" class=\"text-white\">Stall Booking Form for Exhibition Oct 2019&nbsp;</a><br></span></li><li><span style=\"line-height: 1.7em;\"><u><a href=\"layout.html\" class=\"text-white\">Layout For Stalls&nbsp;for&nbsp;</a>Exhibition Oct 2019</u></span></li><li><span style=\"line-height: 1.7em;\"><br></span></li><li><br></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>EXHIBITION VENUE&nbsp;</strong></p><p class=\"mbr-contacts__text\">Kothi Meena Bazaar, Agra</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong>DOWNLOADS<br></strong></p><ul class=\"mbr-contacts__list\"><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/brochure.pdf\" target=\"_blank\" class=\"text-white\">Brochure for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/proposal_letter.pdf\" target=\"_blank\" class=\"text-white\">Proposal Letter For Agra Mahotsav Oct 2019 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/stall_booking.pdf\" target=\"_blank\" class=\"text-white\">Stall Booking Form for Exhibition Oct 2019&nbsp;</a><br></span></li><li><span style=\"line-height: 1.7em;\"><u><a href=\"layout.html\" class=\"text-white\">Layout For Agra Mahotsav</a>&nbsp;Oct 2019</u></span></li><li><span style=\"line-height: 1.7em;\"><br></span></li><li><br></li></ul>"
         }
       ]
     },
@@ -5214,7 +5282,7 @@
             }
           },
           "text1": "<strong>OFFICE ADDRESS</strong><br>5, Surya Nagar, Civil Lines, Khandari Agra - 282002<br><br><b>CONTACTS</b><br>Email: info@raavievents.com<br>Phone: 9760018805, 8057913222<br><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>EXHIBITION VENUE&nbsp;</strong></p><p class=\"mbr-contacts__text\">Kothi Meena Bazaar, Agra</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong>DOWNLOADS<br></strong></p><ul class=\"mbr-contacts__list\"><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/brochure.pdf\" target=\"_blank\" class=\"text-white\">Brochure for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/proposal_letter.pdf\" target=\"_blank\" class=\"text-white\">Proposal Letter&nbsp;for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/stall_booking.pdf\" target=\"_blank\" class=\"text-white\">Stall Booking Form for Exhibition Oct 2019&nbsp;</a><br></span></li><li><span style=\"line-height: 1.7em;\"><u><a href=\"layout.html\" class=\"text-white\">Layout For Stalls&nbsp;for&nbsp;</a>Exhibition Oct 2019</u></span></li><li><span style=\"line-height: 1.7em;\"><br></span></li><li><br></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>EXHIBITION VENUE&nbsp;</strong></p><p class=\"mbr-contacts__text\">Kothi Meena Bazaar, Agra</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong>DOWNLOADS<br></strong></p><ul class=\"mbr-contacts__list\"><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/brochure.pdf\" target=\"_blank\" class=\"text-white\">Brochure for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/proposal_letter.pdf\" target=\"_blank\" class=\"text-white\">Proposal Letter For Agra Mahotsav Oct 2019 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/stall_booking.pdf\" target=\"_blank\" class=\"text-white\">Stall Booking Form for Exhibition Oct 2019&nbsp;</a><br></span></li><li><span style=\"line-height: 1.7em;\"><u><a href=\"layout.html\" class=\"text-white\">Layout For Agra Mahotsav</a>&nbsp;Oct 2019</u></span></li><li><span style=\"line-height: 1.7em;\"><br></span></li><li><br></li></ul>"
         }
       ]
     },
@@ -5411,7 +5479,7 @@
             }
           },
           "text1": "<strong>OFFICE ADDRESS</strong><br>5, Surya Nagar, Civil Lines, Khandari Agra - 282002<br><br><b>CONTACTS</b><br>Email: info@raavievents.com<br>Phone: 9760018805, 8057913222<br><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>EXHIBITION VENUE&nbsp;</strong></p><p class=\"mbr-contacts__text\">Kothi Meena Bazaar, Agra</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong>DOWNLOADS<br></strong></p><ul class=\"mbr-contacts__list\"><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/brochure.pdf\" target=\"_blank\" class=\"text-white\">Brochure for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/proposal_letter.pdf\" target=\"_blank\" class=\"text-white\">Proposal Letter&nbsp;for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/stall_booking.pdf\" target=\"_blank\" class=\"text-white\">Stall Booking Form for Exhibition Oct 2019&nbsp;</a><br></span></li><li><span style=\"line-height: 1.7em;\"><u><a href=\"layout.html\" class=\"text-white\">Layout For Stalls&nbsp;for&nbsp;</a>Exhibition Oct 2019</u></span></li><li><span style=\"line-height: 1.7em;\"><br></span></li><li><br></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>EXHIBITION VENUE&nbsp;</strong></p><p class=\"mbr-contacts__text\">Kothi Meena Bazaar, Agra</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong>DOWNLOADS<br></strong></p><ul class=\"mbr-contacts__list\"><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/brochure.pdf\" target=\"_blank\" class=\"text-white\">Brochure for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/proposal_letter.pdf\" target=\"_blank\" class=\"text-white\">Proposal Letter For Agra Mahotsav Oct 2019 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/stall_booking.pdf\" target=\"_blank\" class=\"text-white\">Stall Booking Form for Exhibition Oct 2019&nbsp;</a><br></span></li><li><span style=\"line-height: 1.7em;\"><u><a href=\"layout.html\" class=\"text-white\">Layout For Agra Mahotsav</a>&nbsp;Oct 2019</u></span></li><li><span style=\"line-height: 1.7em;\"><br></span></li><li><br></li></ul>"
         }
       ]
     },
@@ -6088,7 +6156,7 @@
             }
           },
           "text1": "<strong>OFFICE ADDRESS</strong><br>5, Surya Nagar, Civil Lines, Khandari Agra - 282002<br><br><b>CONTACTS</b><br>Email: info@raavievents.com<br>Phone: 9760018805, 8057913222<br><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>EXHIBITION VENUE&nbsp;</strong></p><p class=\"mbr-contacts__text\">Kothi Meena Bazaar, Agra</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong>DOWNLOADS<br></strong></p><ul class=\"mbr-contacts__list\"><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/brochure.pdf\" target=\"_blank\" class=\"text-white\">Brochure for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/proposal_letter.pdf\" target=\"_blank\" class=\"text-white\">Proposal Letter&nbsp;for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/stall_booking.pdf\" target=\"_blank\" class=\"text-white\">Stall Booking Form for Exhibition Oct 2019&nbsp;</a><br></span></li><li><span style=\"line-height: 1.7em;\"><u><a href=\"layout.html\" class=\"text-white\">Layout For Stalls&nbsp;for&nbsp;</a>Exhibition Oct 2019</u></span></li><li><span style=\"line-height: 1.7em;\"><br></span></li><li><br></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>EXHIBITION VENUE&nbsp;</strong></p><p class=\"mbr-contacts__text\">Kothi Meena Bazaar, Agra</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong>DOWNLOADS<br></strong></p><ul class=\"mbr-contacts__list\"><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/brochure.pdf\" target=\"_blank\" class=\"text-white\">Brochure for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/proposal_letter.pdf\" target=\"_blank\" class=\"text-white\">Proposal Letter For Agra Mahotsav Oct 2019 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/stall_booking.pdf\" target=\"_blank\" class=\"text-white\">Stall Booking Form for Exhibition Oct 2019&nbsp;</a><br></span></li><li><span style=\"line-height: 1.7em;\"><u><a href=\"layout.html\" class=\"text-white\">Layout For Agra Mahotsav</a>&nbsp;Oct 2019</u></span></li><li><span style=\"line-height: 1.7em;\"><br></span></li><li><br></li></ul>"
         }
       ]
     },
@@ -7297,7 +7365,7 @@
             }
           },
           "text1": "<strong>OFFICE ADDRESS</strong><br>5, Surya Nagar, Civil Lines, Khandari Agra - 282002<br><br><b>CONTACTS</b><br>Email: info@raavievents.com<br>Phone: 9760018805, 8057913222<br><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>EXHIBITION VENUE&nbsp;</strong></p><p class=\"mbr-contacts__text\">Kothi Meena Bazaar, Agra</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong>DOWNLOADS<br></strong></p><ul class=\"mbr-contacts__list\"><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/brochure.pdf\" target=\"_blank\" class=\"text-white\">Brochure for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/proposal_letter.pdf\" target=\"_blank\" class=\"text-white\">Proposal Letter&nbsp;for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/stall_booking.pdf\" target=\"_blank\" class=\"text-white\">Stall Booking Form for Exhibition Oct 2019&nbsp;</a><br></span></li><li><span style=\"line-height: 1.7em;\"><u><a href=\"layout.html\" class=\"text-white\">Layout For Stalls&nbsp;for&nbsp;</a>Exhibition Oct 2019</u></span></li><li><span style=\"line-height: 1.7em;\"><br></span></li><li><br></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>EXHIBITION VENUE&nbsp;</strong></p><p class=\"mbr-contacts__text\">Kothi Meena Bazaar, Agra</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong>DOWNLOADS<br></strong></p><ul class=\"mbr-contacts__list\"><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/brochure.pdf\" target=\"_blank\" class=\"text-white\">Brochure for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/proposal_letter.pdf\" target=\"_blank\" class=\"text-white\">Proposal Letter For Agra Mahotsav Oct 2019 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/stall_booking.pdf\" target=\"_blank\" class=\"text-white\">Stall Booking Form for Exhibition Oct 2019&nbsp;</a><br></span></li><li><span style=\"line-height: 1.7em;\"><u><a href=\"layout.html\" class=\"text-white\">Layout For Agra Mahotsav</a>&nbsp;Oct 2019</u></span></li><li><span style=\"line-height: 1.7em;\"><br></span></li><li><br></li></ul>"
         }
       ]
     },
@@ -7803,7 +7871,7 @@
             }
           },
           "text1": "<strong>OFFICE ADDRESS</strong><br>5, Surya Nagar, Civil Lines, Khandari Agra - 282002<br><br><b>CONTACTS</b><br>Email: info@raavievents.com<br>Phone: 9760018805, 8057913222<br><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>EXHIBITION VENUE&nbsp;</strong></p><p class=\"mbr-contacts__text\">Kothi Meena Bazaar, Agra</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong>DOWNLOADS<br></strong></p><ul class=\"mbr-contacts__list\"><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/brochure.pdf\" target=\"_blank\" class=\"text-white\">Brochure for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/proposal_letter.pdf\" target=\"_blank\" class=\"text-white\">Proposal Letter&nbsp;for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/stall_booking.pdf\" target=\"_blank\" class=\"text-white\">Stall Booking Form for Exhibition Oct 2019&nbsp;</a><br></span></li><li><span style=\"line-height: 1.7em;\"><u><a href=\"layout.html\" class=\"text-white\">Layout For Stalls&nbsp;for&nbsp;</a>Exhibition Oct 2019</u></span></li><li><span style=\"line-height: 1.7em;\"><br></span></li><li><br></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>EXHIBITION VENUE&nbsp;</strong></p><p class=\"mbr-contacts__text\">Kothi Meena Bazaar, Agra</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong>DOWNLOADS<br></strong></p><ul class=\"mbr-contacts__list\"><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/brochure.pdf\" target=\"_blank\" class=\"text-white\">Brochure for Mid Night Bazar Exhibition Oct 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/proposal_letter.pdf\" target=\"_blank\" class=\"text-white\">Proposal Letter For Agra Mahotsav Oct 2019 201</a>9</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/stall_booking.pdf\" target=\"_blank\" class=\"text-white\">Stall Booking Form for Exhibition Oct 2019&nbsp;</a><br></span></li><li><span style=\"line-height: 1.7em;\"><u><a href=\"layout.html\" class=\"text-white\">Layout For Agra Mahotsav</a>&nbsp;Oct 2019</u></span></li><li><span style=\"line-height: 1.7em;\"><br></span></li><li><br></li></ul>",
           "_anchor": "contacts2-33"
         }
       ]
