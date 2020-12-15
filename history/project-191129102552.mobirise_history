@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MidNightBazzar",
-    "currentPage": "page9.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -14,7 +14,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.8.7",
-    "uniqCompNum": 153,
+    "uniqCompNum": 151,
     "versionPublish": "4.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1182,7 +1182,7 @@
       "settings": {
         "title": "Gallery",
         "meta_descr": "",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -2214,7 +2214,7 @@
       "settings": {
         "title": "Layout",
         "meta_descr": "",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -2382,7 +2382,7 @@
     "clients.html": {
       "settings": {
         "title": "Clients",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -4976,7 +4976,7 @@
       "settings": {
         "title": "Activities",
         "meta_descr": "",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -5294,7 +5294,7 @@
       "settings": {
         "title": "Contact Us",
         "meta_descr": "",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -5491,7 +5491,7 @@
       "settings": {
         "title": "Our Associates",
         "meta_descr": "",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -6167,7 +6167,7 @@
     "news.html": {
       "settings": {
         "title": "News",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -7377,7 +7377,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Detail",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -7877,105 +7877,6 @@
           "text1": "<strong>OFFICE ADDRESS</strong><br>5, Surya Nagar, Civil Lines, Khandari Agra - 282002<br><br><b>CONTACTS</b><br>Email: info@raavievents.com<br>Phone: 9760018805, 8057913222<br><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>EXHIBITION VENUE&nbsp;</strong></p><p class=\"mbr-contacts__text\">Kothi Meena Bazaar, Agra</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong>DOWNLOADS<br></strong></p><ul class=\"mbr-contacts__list\"><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/brochure.pdf\" target=\"_blank\" class=\"text-white\">Brochure for Mid Night Bazar Exhibition Jan 20</a>20</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/proposal_letter.pdf\" target=\"_blank\" class=\"text-white\">Proposal Letter For Midnight Bazar &nbsp;jan&nbsp;</a>2020</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/stall_booking.pdf\" target=\"_blank\" class=\"text-white\">Stall Booking Form for Exhibition jan 2020&nbsp;</a><br></span></li><li><span style=\"line-height: 1.7em;\"><u><a href=\"layout.html\" class=\"text-white\">Layout For Mid Night BAzaar&nbsp;jan 2020</a></u></span></li><li><span style=\"line-height: 1.7em;\"><br></span></li><li><br></li></ul>",
           "_anchor": "contacts2-33"
-        }
-      ]
-    },
-    "page9.html": {
-      "settings": {
-        "meta_descr": "Web Site Creator Description",
-        "title": "Page 9",
-        "order": 1
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {
-              "font-size": "25px",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#e25041"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#df402f"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#e25041",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-325x128-88.jpg",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MIDNIGHT BAZAR&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-b\">EXHIBITION INFO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"clients.html\">CLIENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"associates.html\">ASSOCIATES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contacts.html\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page8.html\">sdssdadadad</a></li>",
-          "_anchor": "dropdown-menu-47"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_styles": {
-            "UL": {
-              "color": "#efefef"
-            },
-            "P": {
-              "color": "#cccccc"
-            }
-          },
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "Kothi Meena Bazaar, Agra",
-              "placeId": "ChIJC8oICRt3dDkRN_02mIzhgSc",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>OFFICE ADDRESS</strong><br>5, Surya Nagar, Civil Lines, Khandari Agra - 282002<br><br><b>CONTACTS</b><br>Email: info@raavievents.com<br>Phone: 9760018805, 8057913222<br><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>EXHIBITION VENUE&nbsp;</strong></p><p class=\"mbr-contacts__text\">Kothi Meena Bazaar, Agra</p><p class=\"mbr-contacts__text\"><br></p><p class=\"mbr-contacts__text\"><strong>DOWNLOADS<br></strong></p><ul class=\"mbr-contacts__list\"><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/brochure.pdf\" target=\"_blank\" class=\"text-white\">Brochure for Mid Night Bazar Exhibition Jan 20</a>20</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/download/proposal_letter.pdf\" target=\"_blank\" class=\"text-white\">Proposal Letter For Midnight Bazar &nbsp;jan&nbsp;</a>2020</span></li><li><span style=\"line-height: 1.7em;\"><a href=\"http://midnightbazarexhibition.com/stall_booking.pdf\" target=\"_blank\" class=\"text-white\">Stall Booking Form for Exhibition jan 2020&nbsp;</a><br></span></li><li><span style=\"line-height: 1.7em;\"><u><a href=\"layout.html\" class=\"text-white\">Layout For Mid Night BAzaar&nbsp;jan 2020</a></u></span></li><li><span style=\"line-height: 1.7em;\"><br></span></li><li><br></li></ul>",
-          "_anchor": "contacts2-48"
         }
       ]
     }
